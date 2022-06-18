@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Space-Gamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Space-Gamer&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Space-Gamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Space-Gamer&theme=gruvbox&count_private=true&hide=issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Space-Gamer&theme=dark&layout=compact)
