@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Space-Gamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Space-Gamer)](https://github.com/anuraghazra/github-readme-stats)
+[![Space-Gamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Space-Gamer&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Space-Gamer&theme=dark&layout=compact)
+<br>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Space-Gamer">
+</a>
+<a href="https://github.com/Space-Gamer?tab=followers"><img src="https://img.shields.io/github/followers/Space-Gamer?label=Followers&style=social" alt="GitHub Badge"></a>
+<br><br>
