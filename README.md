@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Space-Gamer">
 </a>
-<a href="https://github.com/Space-Gamer?tab=followers"><img src="https://img.shields.io/github/followers/Space-Gamer?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
+<!--<a href="https://github.com/Space-Gamer?tab=followers"><img src="https://img.shields.io/github/followers/Space-Gamer?label=Followers&style=social" alt="GitHub Badge"></a>
+<br>
+-->
