@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 </a>
 <br>-->
 <a href="https://github.com/Space-Gamer?tab=followers"><img src="https://img.shields.io/github/followers/Space-Gamer?label=Followers&style=social" alt="GitHub Badge"></a>
+     ![Profile Views](https://komarev.com/ghpvc/?username=Space-Gamer)
 <br>
 
