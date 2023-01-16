@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Space-Gamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Space-Gamer&theme=gruvbox&count_private=true&hide=issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Space-Gamer's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Space-Gamer&theme=gruvbox&count_private=true&hide=issues,contribs&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Space-Gamer&theme=gruvbox&count_private=true&hide=issues,contribs&show_icons=true))
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Space-Gamer&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Space-Gamer&theme=dark&layout=compact)
 <br>
 <!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Space-Gamer">
